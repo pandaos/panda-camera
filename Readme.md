@@ -15,4 +15,4 @@ PandaOS camera application
 
 ## Execute
 
-*./panda-camera
+* ./panda-camera
