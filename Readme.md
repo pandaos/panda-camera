@@ -4,7 +4,11 @@ PandaOS camera application
 
 ## Dependencies
 
-* sudo apt install qtmultimedia5-dev libqt5multimediawidgets5 
+* sudo apt install qtmultimedia5-dev libqt5multimediawidgets5
+
+### ArchLinux
+
+* sudo pacman -S qt5-multimedia gst-plugins-bad-libs
 
 ## Build
 
